@@ -1,0 +1,25 @@
+[
+  {
+    "key": "FavoritesPage",
+    "webValue": "https://www.lcwaikiki.com/tr-TR/TR/favorilistem",
+    "webType": "url"
+  },
+
+  {
+    "key": "SelectAll",
+    "webValue": "selectAll",
+    "webType": "id"
+  },
+
+  {
+    "key": "RemoveSelected",
+    "webValue": "removeSelected",
+    "webType": "id"
+  },
+
+  {
+    "key": "DeletedText",
+    "webValue": "//*[@id=\"divModels\"]/div[3]/p",
+    "webType": "xpath"
+  }
+]

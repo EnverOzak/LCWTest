@@ -1,0 +1,19 @@
+[
+  {
+    "key": "HomePage",
+    "webValue": "https://www.lcwaikiki.com/tr-TR/TR",
+    "webType": "url"
+  },
+
+  {
+    "key": "Man",
+    "webValue": "mega_menu_dd_6",
+    "webType": "id"
+  },
+
+  {
+    "key": "Shirts",
+    "webValue": "//*[@id=\"dd_mmm_6_169\"]/li[2]/a",
+    "webType": "xpath"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "key": "ManShirtsPage",
+    "webValue": "https://www.lcwaikiki.com/tr-TR/TR/kategori/erkek/gomlek",
+    "webType": "url"
+  },
+
+  {
+    "key": "SortButton",
+    "webValue": "dropdownMenu1",
+    "webType": "id"
+  },
+
+  {
+    "key": "HighestPrice",
+    "webValue": "hfl_3",
+    "webType": "id"
+  },
+
+  {
+    "key": "HighestPricePage",
+    "webValue": "https://www.lcwaikiki.com/tr-TR/TR/kategori/erkek/gomlek?LastFilter=m_1007&Sort=PriceDESC",
+    "webType": "url"
+  },
+
+  {
+    "key": "FavoritesButton",
+    "webValue": "/html/body/div[5]/div[2]/div[1]/div[4]/div/div[2]",
+    "webType": "xpath"
+  }
+]

@@ -1,0 +1,44 @@
+Created by ozake on 23.07.2021
+
+# Open LCW Website and Check if Home Page is Opened
+* Navigate to "HomePage" by Url in "HomePage.json"
+* Wait "1" seconds
+* Check if "HomePage" is Opened by Url in "HomePage.json" and print "Home Page is Opened"
+
+# Open Man Shirts Page and Check
+* Hover on element "Man" by id in "HomePage.json"
+* Wait "1" seconds
+* Click on Element "Shirts" by Xpath in "HomePage.json"
+* Wait "2" seconds
+* Check if "ManShirtsPage" is Opened by Url in "ManShirtsPage.json" and print "Man Shirts Page is Opened"
+
+# Sort Products By Highest Price and Check
+* Click on Element "SortButton" by Id in "ManShirtsPage.json"
+* Wait "1" seconds
+* Click on Element "HighestPrice" by Id in "ManShirtsPage.json"
+* Wait "2" seconds
+* Check if "HighestPricePage" is Opened by Url in "ManShirtsPage.json" and print "Sorted by the Highest Price"
+* Wait "1" seconds
+
+# Add First Three Products to Favorites
+* Add to Favorites and Print "Added to the Favoirtes"
+* Wait "1" seconds
+
+# Open Favorites Page and Check
+* Click on Element "FavoritesButton" by Xpath in "ManShirtsPage.json"
+* Wait "2" seconds
+* Check if "FavoritesPage" is Opened by Url in "FavoritesPage.json" and print "Favorites Page is Opened"
+
+# Compare Favorites
+* Current Favorites
+* Wait "1" seconds
+* Compare Favorites and Print "Products are Correct"
+* Wait "1" seconds
+
+# Remove All Products from Favorites
+* Click on Element "SelectAll" by Id in "FavoritesPage.json"
+* Wait "1" seconds
+* Check if All Selected and print "All the Products are Selected"
+* Click on Element "RemoveSelected" by Id in "FavoritesPage.json"
+* Wait "1" seconds
+* Check if "Favori Ürününüz Yok" is the same with element "DeletedText" in "FavoritesPage.json" by Xpath and print "All the Products are Deleted"
